@@ -25,8 +25,6 @@ I work across software development, infrastructure and technical problem-solving
 
 - **Gram Medical — current:** software development, system improvements, troubleshooting and technical support.
 - **Etaar Digital Systems — co-founder:** product development, infrastructure, business systems and technical consulting.
-- **Oil Libya — previous:** infrastructure and network support, server environments and reliability.
-- **Tetco — previous:** freelance development and technical consulting.
 - **Sahab Libya — previous:** IT support, connectivity and troubleshooting.
 - **Healthcare systems:** application support and helping teams use their systems effectively.
 
