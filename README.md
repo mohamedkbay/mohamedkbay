@@ -17,7 +17,7 @@ I work across software development, infrastructure and technical problem-solving
 | **فكّرني · Fakkerni** | Voice reminders that understand Arabic and Libyan speech, with review before saving. Native Android and iOS apps. | [Source & downloads](https://github.com/mohamedkbay/fakkerni) |
 | **مساجدنا · Masajiduna** | A Flutter app for prayer times, nearby mosques, adhkar and Quran radio, with a companion website. | [Project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/masajiduna.md) · [Website](https://masajiduna.ly) |
 | **نبضة · Nabda** | A messaging platform connecting an Android phone to a local Windows controller or a self-hosted API. | [Project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/nabda.md) |
-| **فوترة · Fawtara** | A mobile-first invoice archive with photo capture, organization and search. A public edition stores records in the browser. | [Project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/fawtara.md) · [Public source](https://github.com/mohamedkbay/fawtara-public) |
+| **فوترة · Fawtara** | A public browser invoice archive, plus a proposed Flutter workflow for local records, financial alerts and optional Qwen analysis. | [Overview & animated concept](https://github.com/mohamedkbay/portfolio/blob/main/projects/fawtara.md) · [Browser source](https://github.com/mohamedkbay/fawtara-public) |
 
 **More work:** hospital CRM and communications, ERP and accounting, vehicle inspection, café operations, e-commerce, business websites and live transcription. [Browse the full project catalog →](https://github.com/mohamedkbay/portfolio/blob/main/PROJECTS.md)
 
