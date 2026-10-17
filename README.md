@@ -38,4 +38,6 @@ I work across software development, infrastructure and technical problem-solving
 
 Away from the terminal: chess.
 
+<sub>Other GitHub account: <a href="https://github.com/mohamedbay">@mohamedbay</a>.</sub>
+
 Commercial source code stays private. Public code: [Fakkerni](https://github.com/mohamedkbay/fakkerni) and [Fawtara’s browser-only edition](https://github.com/mohamedkbay/fawtara-public). More product overviews are in the [portfolio](https://github.com/mohamedkbay/portfolio).
