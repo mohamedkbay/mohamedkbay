@@ -8,11 +8,28 @@ I work across software development, infrastructure and technical problem-solving
 
 [Website](https://mohamedbay.ly) · [LinkedIn](https://www.linkedin.com/in/mohamedbay/) · [Etaar](https://etaar.ly)
 
+## Featured · REPLY
+
+<a href="https://github.com/mohamedkbay/REPLY">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedkbay/REPLY/main/assets/brand/logos/svg/reply-horizontal-white.svg" />
+<img src="https://raw.githubusercontent.com/mohamedkbay/REPLY/main/assets/brand/logos/svg/reply-horizontal-ink.svg" width="220" alt="REPLY" />
+</picture>
+</a>
+
+**Arabic-first inventory and product replies for merchants.** Save a product code, price and availability; answer customers from the catalog. Arabic/English, light/dark modes and isolated customer workspaces.
+
+REPLY — مخزون منظّم ورد واضح للزبون من كود المنتج. مفتوح المصدر، مع واجهة عربية وإنجليزية.
+
+[Explore the code & documentation →](https://github.com/mohamedkbay/REPLY) · [Screens & project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md)
+
+TypeScript · Node.js · SQLite · MIT. Locally verified pilot; live platform access and online payments remain setup/future work.
+
 ## Selected work
 
 | Project | What I’m building | Explore |
 | --- | --- | --- |
-| **REPLY** | Arabic-first merchant inventory and product-code replies, with bilingual workflows and an isolated customer-service pilot. Private source. | [Overview & previews](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md) |
+| **REPLY** | Arabic-first merchant inventory and product-code replies, with bilingual workflows and an isolated customer-service pilot. Open source. | [Code & docs](https://github.com/mohamedkbay/REPLY) · [Overview & previews](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md) |
 | **UpDent** | A dental clinic mobile app for Android and iOS, with patient records, treatment tracking, appointments and companion web tools. | [Project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/updent.md) · [Website](https://updent.ly) |
 | **Glory Platform · GloryTech Academy** | An Arabic training platform for networking and IT courses, with a course catalog, student dashboard and lesson progress. | [Project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/glory-platform.md) |
 | **فكّرني · Fakkerni** | Voice reminders that understand Arabic and Libyan speech, with review before saving. Native Android and iOS apps. | [Source & downloads](https://github.com/mohamedkbay/fakkerni) |
@@ -41,4 +58,4 @@ Away from the terminal: chess.
 
 <sub>Freelance work & company collaborations: <a href="https://github.com/mohamedbay">@mohamedbay</a>.</sub>
 
-Commercial source code stays private. Public code: [Fakkerni](https://github.com/mohamedkbay/fakkerni) and [Fawtara’s browser-only edition](https://github.com/mohamedkbay/fawtara-public). More product overviews are in the [portfolio](https://github.com/mohamedkbay/portfolio).
+Commercial source code stays private. Public code: [REPLY](https://github.com/mohamedkbay/REPLY), [Fakkerni](https://github.com/mohamedkbay/fakkerni) and [Fawtara’s browser-only edition](https://github.com/mohamedkbay/fawtara-public). More product overviews are in the [portfolio](https://github.com/mohamedkbay/portfolio).
