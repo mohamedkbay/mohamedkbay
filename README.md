@@ -21,6 +21,10 @@ I work across software development, infrastructure and technical problem-solving
 
 REPLY — مخزون منظّم ورد واضح للزبون من كود المنتج. مفتوح المصدر، مع واجهة عربية وإنجليزية.
 
+<a href="https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4"><img src="https://raw.githubusercontent.com/mohamedkbay/REPLY/main/docs/media/Reply-Motion-Preview.gif" width="720" alt="Reply in motion: actual local-demo theme wave and layered menu" /></a>
+
+[Watch the 32-second product film](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4) · Local demo with synthetic inventory.
+
 [Explore the code & documentation →](https://github.com/mohamedkbay/REPLY) · [Screens & project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md)
 
 TypeScript · Node.js · SQLite · MIT. Locally verified pilot; live platform access and online payments remain setup/future work.
