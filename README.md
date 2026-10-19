@@ -12,6 +12,7 @@ I work across software development, infrastructure and technical problem-solving
 
 | Project | What I’m building | Explore |
 | --- | --- | --- |
+| **REPLY** | Arabic-first merchant inventory and product-code replies, with bilingual workflows and an isolated customer-service pilot. Private source. | [Overview & previews](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md) |
 | **UpDent** | A dental clinic mobile app for Android and iOS, with patient records, treatment tracking, appointments and companion web tools. | [Project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/updent.md) · [Website](https://updent.ly) |
 | **Glory Platform · GloryTech Academy** | An Arabic training platform for networking and IT courses, with a course catalog, student dashboard and lesson progress. | [Project overview](https://github.com/mohamedkbay/portfolio/blob/main/projects/glory-platform.md) |
 | **فكّرني · Fakkerni** | Voice reminders that understand Arabic and Libyan speech, with review before saving. Native Android and iOS apps. | [Source & downloads](https://github.com/mohamedkbay/fakkerni) |
