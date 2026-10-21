@@ -2,21 +2,17 @@
 
 **Network engineer & developer · Gram Medical · Co-founder at [Etaar](https://etaar.ly)**
 
-I work across software development, infrastructure and technical problem-solving in Libya. At **Gram Medical**, I develop and improve systems, troubleshoot issues and support day-to-day technology. Through **Etaar**, I also build Arabic-first products and business tools.
-
-نطوّر أنظمة وتطبيقات، نحلّ المشاكل التقنية، ونربط احتياجات الشغل بحلول عملية — من البنية التحتية إلى تجربة المستخدم.
+I work across software development, infrastructure and technical problem-solving in Libya. At **Gram Medical**, I develop and improve systems, troubleshoot issues and support day-to-day technology. Through **Etaar**, I build mobile apps, web platforms and business tools.
 
 [Website](https://mohamedbay.ly) · [LinkedIn](https://www.linkedin.com/in/mohamedbay/) · [Etaar](https://etaar.ly)
 
-[معاينات المشاريع](#projects--المشاريع) · [بقية الشغل](#more-projects--بقية-الشغل) · [الخبرة](#experience)
+[Project previews](#projects) · [More projects](#more-projects) · [Experience](#experience)
 
-## Projects · المشاريع
+## Projects
 
-فكرة المشروع، دوري فيه، وحالته وروابطه — افتح الشرح للتفاصيل وبقية المعاينات.
+Explore each project’s purpose, my contribution and availability. Open an overview for the full scope and additional previews.
 
-### منصة رؤية · ROUIA Platform
-
-منصة للحلقات والشورتات والاستماع الصوتي، مرتبطة بشركة رؤية للإنتاج والتسويق الإعلامي.
+### ROUIA Platform
 
 Arabic podcasts, shorts and an audio player that continues across internal navigation.
 
@@ -30,9 +26,7 @@ Arabic podcasts, shorts and an audio player that continues across internal navig
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/rouia-platform.md) · [Visit platform →](https://podcast.alrouia.ly/)
 
-### الرؤية الفنية · ROUIA company website
-
-موقع شركة رؤية لعرض الأعمال المرئية والخدمات والأرشيف وربطها بمنصة البودكاست.
+### ROUIA Company Website
 
 A cinematic Arabic portfolio for media-production work, services and the studio’s podcast.
 
@@ -48,8 +42,6 @@ A cinematic Arabic portfolio for media-production work, services and the studio�
 
 ### REPLY
 
-مخزون منظّم ورد واضح للزبون من كود المنتج، بواجهة عربية وإنجليزية.
-
 Merchant inventory and product-code replies, with bilingual workflows and isolated customer workspaces.
 
 <p align="center">
@@ -62,9 +54,7 @@ Merchant inventory and product-code replies, with bilingual workflows and isolat
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md) · [Code & docs →](https://github.com/mohamedkbay/REPLY) · [Product film →](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)
 
-### UpDent · أب دنت
-
-تطبيق للعيادات وأطباء الأسنان لتنظيم ملفات المرضى والعلاجات والمواعيد والمتابعات.
+### UpDent
 
 Dental clinic workflows on Android and iOS, with companion web tools.
 
@@ -80,8 +70,6 @@ Dental clinic workflows on Android and iOS, with companion web tools.
 
 ### Glory Platform · GloryTech Academy
 
-منصة عربية لمركز التدريب، من اكتشاف الدورات إلى لوحة الطالب والدروس ومتابعة التقدّم.
-
 An Arabic training platform for networking, infrastructure and IT education.
 
 <p align="center">
@@ -94,9 +82,7 @@ An Arabic training platform for networking, infrastructure and IT education.
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/glory-platform.md)
 
-### فكّرني · Fakkerni
-
-قول التذكير بالعربي أو باللهجة الليبية، راجعه وعدّله، ثم وافق على حفظه والتنبيه عليه.
+### Fakkerni
 
 Arabic-first voice reminders with review before saving, on native Android and iOS apps.
 
@@ -110,9 +96,7 @@ Arabic-first voice reminders with review before saving, on native Android and iO
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/fakkerni.md) · [Source & downloads →](https://github.com/mohamedkbay/fakkerni)
 
-### مساجدنا · Masajiduna
-
-مواقيت الصلاة والمساجد القريبة والأذكار وإذاعة القرآن في تجربة عربية واحدة.
+### Masajiduna
 
 A Flutter prayer companion with mosque discovery and a companion website.
 
@@ -126,9 +110,7 @@ A Flutter prayer companion with mosque discovery and a companion website.
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/masajiduna.md) · [Visit website →](https://masajiduna.ly)
 
-### نبضة · Nabda
-
-يربط هاتف أندرويد بلوحة تحكم محلية أو API، لتنظيم طابور الرسائل ومتابعة حالتها.
+### Nabda
 
 An Android messaging agent, a Windows controller and a self-hosted business messaging API.
 
@@ -142,9 +124,7 @@ An Android messaging agent, a Windows controller and a self-hosted business mess
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/nabda.md)
 
-### فوترة · Fawtara
-
-أرشيف لصور الفواتير والبحث فيها من الهاتف، مع تصور منفصل لنسخة Flutter والتنبيهات والتحليل الاختياري.
+### Fawtara
 
 A browser invoice archive, plus a separate mobile design proposal for local records and financial alerts.
 
@@ -158,39 +138,39 @@ A browser invoice archive, plus a separate mobile design proposal for local reco
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/fawtara.md) · [Browser source →](https://github.com/mohamedkbay/fawtara-public)
 
-## More projects · بقية الشغل
+## More projects
 
 ### Mobile & learning
 
-- **[Live Transcribe · التفريغ اللحظي](https://github.com/mohamedkbay/portfolio/blob/main/projects/live-transcribe.md)** — مساحة للكاتب وشاشة للجمهور، لعرض النص المكتوب لحظياً على جهاز آخر وحفظه في النهاية.
-- **[Fermo mobile application](https://github.com/mohamedkbay/portfolio/blob/main/projects/fermo.md)** — واجهات تطبيق موبايل لأدوار الزبون والسائق والمورّد، مع مسارات مختلفة لكل دور.
+- **[Live Transcribe](https://github.com/mohamedkbay/portfolio/blob/main/projects/live-transcribe.md)** — A live text editor and audience screen synchronized over WebSockets, with local HTML and text export.
+- **[Fermo mobile application](https://github.com/mohamedkbay/portfolio/blob/main/projects/fermo.md)** — A mobile interface project covering customer, driver and supplier roles.
 
 ### Healthcare & operations
 
-- **[Hospital CRM & communications](https://github.com/mohamedkbay/portfolio/blob/main/projects/hospital-crm.md)** — مساحة عربية للمحادثات والحجوزات والمتابعات وتوزيع العمل بين أقسام المستشفى.
-- **[IDC Clinic Manager](https://github.com/mohamedkbay/portfolio/blob/main/projects/idc-clinic-manager.md)** — منظومة عربية لإدارة المرضى والزيارات والمواعيد والأطباء والموظفين وواجهات التقارير.
-- **[Car Pulse](https://github.com/mohamedkbay/portfolio/blob/main/projects/car-pulse.md)** — تنظيم خطوات فحص المركبات وتوثيق الملاحظات والأضرار وتجهيز تقرير للزبون.
-- **[Wisam clinic website](https://github.com/mohamedkbay/portfolio/blob/main/projects/wisam-clinic.md)** — موقع للعيادة يعرّف بخدماتها وفريقها ومعلوماتها للزائر.
+- **[Hospital CRM & communications](https://github.com/mohamedkbay/portfolio/blob/main/projects/hospital-crm.md)** — Hospital conversations, departmental routing, booking and follow-up workflows built on an existing open-source foundation.
+- **[IDC Clinic Manager](https://github.com/mohamedkbay/portfolio/blob/main/projects/idc-clinic-manager.md)** — A clinic administration workspace for patient, appointment and team workflows.
+- **[Car Pulse](https://github.com/mohamedkbay/portfolio/blob/main/projects/car-pulse.md)** — Structured vehicle inspection, damage documentation and customer-facing inspection reports.
+- **[Wisam clinic website](https://github.com/mohamedkbay/portfolio/blob/main/projects/wisam-clinic.md)** — A clinic website presenting services, the team and visitor information.
 
 ### Business systems
 
-- **[Salem accounting application](https://github.com/mohamedkbay/portfolio/blob/main/projects/salem-accounting.md)** — تنظيم فواتير وحسابات المقاولين والمورّدين والمدفوعات وحركة النقد لنشاط مواد بناء.
-- **[الخراز · Khirazz POS](https://github.com/mohamedkbay/portfolio/blob/main/projects/khirazz.md)** — نقطة بيع للويب وWindows تحفظ البيانات محلياً، مع مزامنة اختيارية عند الاتصال.
-- **[SouqFlow POS](https://github.com/mohamedkbay/portfolio/blob/main/projects/souqflow.md)** — مساحة نقاط بيع تركّز على Windows وتجمع المبيعات والمخزون والعملاء والتقارير.
-- **[AL-HADAF ERP](https://github.com/mohamedkbay/portfolio/blob/main/projects/al-hadaf-erp.md)** — منظومة أعمال لمواد البناء وخدمات المقاولات، بواجهات للمبيعات والمخزون والمورّدين والتقارير.
-- **[ALAZOZI ERP](https://github.com/mohamedkbay/portfolio/blob/main/projects/alazozi-erp.md)** — منظومة مخصّصة لنشاط مواد البناء، لتنظيم البيع والمخزون والحسابات الإدارية.
-- **[Selal ERP](https://github.com/mohamedkbay/portfolio/blob/main/projects/selal-erp.md)** — واجهات نقطة بيع وإدارة مخزون ومورّدين، مع لوحة متابعة وتقارير.
-- **[حِسبة · Hisba](https://github.com/mohamedkbay/portfolio/blob/main/projects/hisba.md)** — متابعة تكاليف المقهى ووصفاته ومبيعاته ومصروفاته لفهم الربح بصورة أوضح.
-- **[الوزنة · Wazna](https://github.com/mohamedkbay/portfolio/blob/main/projects/wazna.md)** — تنظيم وصفات المقهى والمواد الخام وتسجيل الاستهلاك والهدر والرجوع للأرشيف.
-- **[AlWatnya Marine Systems](https://github.com/mohamedkbay/portfolio/blob/main/projects/alwatnya-marine.md)** — مساحة لإدارة مبيعات ومخزون وصيانة وحسابات نشاط المعدات البحرية.
-- **[منظومة المسوقين · Msueq](https://github.com/mohamedkbay/portfolio/blob/main/projects/msueq.md)** — مساحة عمل للتسويق والمبيعات، لتنظيم المنتجات ومتابعة النشاط من لوحات وتقارير.
+- **[Salem accounting application](https://github.com/mohamedkbay/portfolio/blob/main/projects/salem-accounting.md)** — Invoices, contractor and supplier accounts, payments, cash movements and PDF statements for a building-materials business.
+- **[Khirazz POS](https://github.com/mohamedkbay/portfolio/blob/main/projects/khirazz.md)** — A local-first point of sale for web and Windows, with optional synchronization.
+- **[SouqFlow POS](https://github.com/mohamedkbay/portfolio/blob/main/projects/souqflow.md)** — A Windows-focused point-of-sale workspace for sales, stock, customers and reports.
+- **[AL-HADAF ERP](https://github.com/mohamedkbay/portfolio/blob/main/projects/al-hadaf-erp.md)** — A tailored business-management application for building materials and construction services.
+- **[ALAZOZI ERP](https://github.com/mohamedkbay/portfolio/blob/main/projects/alazozi-erp.md)** — A tailored ERP application for a building-materials business.
+- **[Selal ERP](https://github.com/mohamedkbay/portfolio/blob/main/projects/selal-erp.md)** — Point-of-sale, inventory, supplier and reporting interfaces in a shared business workspace.
+- **[Hisba](https://github.com/mohamedkbay/portfolio/blob/main/projects/hisba.md)** — Café cost and profit analysis workflows covering ingredients, recipes, sales and expenses.
+- **[Wazna](https://github.com/mohamedkbay/portfolio/blob/main/projects/wazna.md)** — Café recipe and raw-material management with consumption, waste and archived operational entries.
+- **[AlWatnya Marine Systems](https://github.com/mohamedkbay/portfolio/blob/main/projects/alwatnya-marine.md)** — Sales, inventory, maintenance and accounting interfaces for marine equipment operations.
+- **[Msueq](https://github.com/mohamedkbay/portfolio/blob/main/projects/msueq.md)** — A marketing and sales workspace with product management, dashboards and reporting interfaces.
 
 ### Media & websites
 
-- **[Etaar storefront & administration](https://github.com/mohamedkbay/portfolio/blob/main/projects/etaar-commerce.md)** — واجهات متجر إلكتروني وأدوات إدارة مساندة للمنتجات والعلامات والطلبات ومتابعة المبيعات.
-- **[درع التقنية · TechShield](https://github.com/mohamedkbay/portfolio/blob/main/projects/techshield.md)** — موقع شركة تقنية يعرض خدمات البرمجيات والشبكات والبنية التحتية.
+- **[Etaar storefront & administration](https://github.com/mohamedkbay/portfolio/blob/main/projects/etaar-commerce.md)** — E-commerce storefront and companion administration interfaces for products, brands, orders and sales.
+- **[TechShield](https://github.com/mohamedkbay/portfolio/blob/main/projects/techshield.md)** — A technology-company website presenting software, networking and infrastructure services.
 
-[Full project catalog · فهرس المشاريع →](https://github.com/mohamedkbay/portfolio/blob/main/PROJECTS.md)
+[Full project catalog →](https://github.com/mohamedkbay/portfolio/blob/main/PROJECTS.md)
 
 ## Experience
 
