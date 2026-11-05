@@ -1,16 +1,33 @@
 # Mohamed Bay
 
-**Network engineer & developer · Gram Medical · Co-founder at [Etaar](https://etaar.ly)**
+**Building [REPLY](https://raply.ly/) · CEO & Lead Engineer at [Etaar](https://etaar.ly) · Network engineer & developer**
 
 I work across software development, infrastructure and technical problem-solving in Libya. At **Gram Medical**, I develop and improve systems, troubleshoot issues and support day-to-day technology. Through **Etaar**, I build mobile apps, web platforms and business tools.
 
 [Website](https://mohamedbay.ly) · [LinkedIn](https://www.linkedin.com/in/mohamedbay/) · [Etaar](https://etaar.ly)
 
-[Project previews](#projects) · [More projects](#more-projects) · [Experience](#experience)
+[My flagship project: REPLY](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md) · [Project previews](#projects) · [More projects](#more-projects) · [Experience](#experience)
 
 ## Projects
 
 Explore each project’s purpose, my contribution and availability. Open an overview for the full scope and additional previews.
+
+### REPLY · My flagship product
+
+**Product owner & lead developer: Mohamed Bay.** My main product, actively developed since January 2026 through Etaar Digital Systems.
+
+An Arabic-first merchant workspace for products, customer replies, orders, printing and delivery operations.
+
+<p align="center">
+<a href="https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md"><img src="https://raw.githubusercontent.com/mohamedkbay/portfolio/main/assets/reply/2026-11-05/products.png" width="680" alt="REPLY current orange and gray Arabic product interface with synthetic demonstration inventory" /></a>
+</p>
+
+**My work:** Product direction, hands-on engineering, interface design and ongoing development across merchant workflows and integrations.
+
+**Availability:** Live public website and trial sign-up; private source. Current provider and paid-plan availability follows the website.
+
+[Live website →](https://raply.ly/) · [Features →](https://raply.ly/features) · [Plans →](https://raply.ly/pricing) · [Current interfaces & project overview →](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md)
+
 
 ### ROUIA Platform
 
@@ -40,19 +57,6 @@ A cinematic Arabic portfolio for media-production work, services and the studio�
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/alrouia.md) · [Visit website →](https://alrouia.ly/)
 
-### REPLY
-
-A merchant workspace for organizing inventory and answering product inquiries using product codes.
-
-<p align="center">
-<a href="https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md"><img src="https://raw.githubusercontent.com/mohamedkbay/portfolio/main/assets/reply/inventory-dark.jpg" width="680" alt="REPLY product inventory with fictional demonstration products" /></a>
-</p>
-
-**Product owner:** Mohamed Bay.
-
-**Availability:** Product showcase · private source.
-
-[Product overview & screenshots →](https://github.com/mohamedkbay/portfolio/blob/main/projects/reply.md)
 
 ### Ghout Al-Shaal Hospital
 
