@@ -133,19 +133,19 @@ A Flutter prayer companion with mosque discovery and a companion website.
 
 [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/masajiduna.md) · [Visit website →](https://masajiduna.ly)
 
-### Nabda
+### Nabda · Your phone, an SMS API
 
-An Android messaging agent, a Windows controller and a self-hosted business messaging API.
+An open-source API for sending a text through your own Android phone and SIM. The phone keeps the queue and message history; the server handles requests and reports results.
 
 <p align="center">
-<a href="https://github.com/mohamedkbay/portfolio/blob/main/projects/nabda.md"><img src="https://raw.githubusercontent.com/mohamedkbay/portfolio/main/assets/nabda/home.jpg" width="680" alt="Nabda local product website with a labelled simulated message flow" /></a>
+<a href="https://github.com/mohamedkbay/portfolio/blob/main/projects/nabda.md"><img src="https://raw.githubusercontent.com/mohamedkbay/portfolio/main/assets/nabda/2026-11-09/website-live.png" width="680" alt="Nabda's new illustrated website showing a laptop, API cloud, Android phone and a message on warm paper" /></a>
 </p>
 
-**My work:** Application and integration development across the Android agent, local controller, queues and messaging API.
+**My work:** The native Android app, messaging API, QR pairing, phone-owned queue, account dashboard and illustrated developer guide.
 
-**Availability:** Private product development · website preview shows a simulated message flow.
+**Availability:** Early public release · website and API online · open source under MIT · Android test APK and integration kit.
 
-[Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/nabda.md)
+[Live website →](https://nabda-phone-api.netlify.app/) · [API dashboard →](https://nabda-api.mohamed-kbay.workers.dev/dashboard) · [Overview & screens →](https://github.com/mohamedkbay/portfolio/blob/main/projects/nabda.md) · [Source & setup →](https://github.com/mohamedkbay/Nabda)
 
 ### Fawtara
 
